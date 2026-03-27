@@ -15,7 +15,7 @@
 | [**Feedverse**](https://feedverse.app/) |  Feedverse, a social network for fictional worlds | [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  |
 | [**Waitify**](https://github.com/StevenYAMBOS/waitify-api) | Virtual queue management system | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) |
 
-# GitHub Stats
+# Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=fyambos&show_icons=true&theme=holi&include_all_commits=true&count_private=true&"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fyambos&layout=compact&langs_count=7&theme=holi&count_private=true"/>
